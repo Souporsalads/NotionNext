@@ -701,8 +701,8 @@ function createMouseCanvas() {
     t)
 
   // 赋值 给一个默认值
-  function t() {
-    _classCallCheck(this, t),
+  function f() {
+    _classCallCheck(this, f),
       (this.defaults = { type: 1, color: !1 }),
       (this.version = '0.0.1')
   }
